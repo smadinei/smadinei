@@ -4,7 +4,7 @@ I am Saman ...
 
 🎓 I am a PhD candidate in Industrial and Systems Engineering (Biomedical Minor) at Virginia Tech.
 
-🔭 I’m currently working on modeling and evaluation of wearable assistive devices (exoskeletons) for use in manual material handling.
+🔭 I’m currently working on modeling and evaluation of wearable assistive devices (exoskeletons) for use in manual material handling tasks.
 
 🌱 I’m currently learning how to improve the design characteristics of exoskeletons using a human-centered design approach. 
 
