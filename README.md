@@ -8,7 +8,7 @@ I am Saman ...
 
 🌱 I’m currently learning how to improve the design characteristics of exoskeletons using a human-centered design approach. 
 
-👯 I’m looking to collaborate on ergonomic intervention advancements to improve work quality. 
+👯 I’m looking to collaborate on clinical and occupational intervention advancements to improve human performance and life quality. 
 
 📫 How to reach me: [Email Me!](mailto:madinei@vt.edu)
 
